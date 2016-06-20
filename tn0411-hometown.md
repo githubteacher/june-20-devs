@@ -1,7 +1,12 @@
 ## Cupertino, CA
 
-### Great Places to Eat: Sushi Kuni
+### Great Places to Eat: 
+  - Sushi Kuni
+  - Ajito
 
-### Fun things to Do: Eat!
-
+### Fun things to Do: Eat! Eat! Eat!
+    - Surf
     - Thinking...
+
+  
+
