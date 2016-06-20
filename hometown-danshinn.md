@@ -9,3 +9,5 @@
 
 
 ### Fun things to Do
+
+- Watch _Star Wars_
