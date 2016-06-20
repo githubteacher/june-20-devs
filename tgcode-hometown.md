@@ -5,4 +5,5 @@
 
 #### Fun things to do
 - Visit a vineyard
+- Hike at Del Vale
 
