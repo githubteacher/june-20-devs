@@ -8,3 +8,4 @@
 * Balboa Park
 * Coronado Island
 * Visit Breweries
+* See Pandas at the Zoo!
