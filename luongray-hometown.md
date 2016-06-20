@@ -7,5 +7,5 @@ Kenji
 
 ### Fun things to Do
 
-
+go to san francisco
 
