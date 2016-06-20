@@ -4,3 +4,6 @@ today is june 20, 2016
 
 ## Places to eat in Cupertino
 Gochi
+
+## Fun things to do in Cupertino
+- Wine taste at Pichetti Winery
