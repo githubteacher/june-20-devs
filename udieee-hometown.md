@@ -6,6 +6,4 @@
 ### Fun things to Do
  just do!
  do it again!:x
- 
- ### editing your file
- Eat and drink
+ Come to office - what can be more fun! 
