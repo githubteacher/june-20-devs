@@ -9,3 +9,4 @@
 * Coronado Island
 * Visit Breweries
 * See Pandas at the Zoo!
+* See the Sun
