@@ -3,9 +3,9 @@
 
 ### Places to go
 - Minako Organic Sushi
-- Slanted Door
+- Slanted Door (modern Vietnamese)
 - Burma Superstar
-- Orenchi Beyond
+- Orenchi Beyond (ramen)
 - Cafe Ethiopia
 
 ### Things to do
