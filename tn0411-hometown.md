@@ -5,3 +5,4 @@
   - Ajito
 
 ### Fun things to Do: Eat! Eat! Eat!
+  - Surf
