@@ -1,3 +1,6 @@
 ## Cupertino, CA
 
-## Fun things to Do
+## Fun things to do in Cupertino
+
+  - not RW 16
+  - 
