@@ -1,4 +1,8 @@
-### Places to eat at Livermore:
+#### Places to eat at Livermore:
 
 - Just walk downtown
 - They are all great!!
+
+#### Fun things to do
+- Visit a vineyard
+
