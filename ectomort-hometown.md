@@ -12,3 +12,5 @@
 - Visit Land's End
 - Ride the J-Church
 - Checkout SF MOMA
+
+## Places to go
