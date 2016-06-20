@@ -1,7 +1,7 @@
 
 ## San Francisco
 
-### Places to go
+### Places to eat
 - Minako Organic Sushi
 - Slanted Door (modern Vietnamese)
 - Burma Superstar
