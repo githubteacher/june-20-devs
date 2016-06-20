@@ -9,4 +9,6 @@
 - Cafe Ethiopia
 
 ### Things to do
-
+- Visit Land's End
+- Ride the J-Church
+- Checkout SF MOMA
