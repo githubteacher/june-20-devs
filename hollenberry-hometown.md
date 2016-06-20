@@ -11,3 +11,6 @@
 * See Pandas at the Zoo!
 * See the Sun
 * Beaches :beach
+
+### Hotels
+* Hotel Del
