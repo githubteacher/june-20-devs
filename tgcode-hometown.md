@@ -1,3 +1,4 @@
-Places to eat:
+### Places to eat at Livermore:
 
-At downtown
+- Just walk downtown
+- They are all great!!
