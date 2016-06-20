@@ -9,3 +9,6 @@ Kenji
 
 go to san francisco
 
+### Hotels
+
+Sir Francis Drake
