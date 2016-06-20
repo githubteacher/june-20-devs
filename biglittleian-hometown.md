@@ -1,6 +1,6 @@
 ## Cupertino
 
-### Great places to eat (that you can afford)
+### Great places to eat (that are affordable)
 - dumpster behind Alexanders
 - ketchup packets from Wendy's (avoid eye contact with teller)
 - Rio Adobe
