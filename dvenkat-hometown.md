@@ -1,5 +1,5 @@
 ## Cupertino
-### Great places to eat (that you can afford)
+### Great places to eat
 - foo bar
 - foo2 bar
 ### Fun things to do
