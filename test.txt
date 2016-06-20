@@ -1,10 +1,6 @@
-this is test
-Adding a new line to update
 
 ## Fun things to do
-
-go for fishing
-
-hike 2 miles
+- go for fishing
+- hike 2 miles
 
 
