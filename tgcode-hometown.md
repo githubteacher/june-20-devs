@@ -8,5 +8,5 @@
 #### Fun things to do
 - Visit a vineyard
 - Hike at Del Vale
-- Take the BART to Livermore
+- Take the BART to Livermore, it's easy.
 
