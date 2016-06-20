@@ -10,3 +10,7 @@
 
 - Go hiking at Raven Rock park
 - Go to the Museum of Science in Raleigh
+
+### Hotels
+
+- Trump Casino in Fuquay Varina
