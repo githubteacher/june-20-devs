@@ -5,3 +5,4 @@
 ### Fun things to do
 - Buy a mac
 - Go to infinite loop
+- Drink a milk shake
