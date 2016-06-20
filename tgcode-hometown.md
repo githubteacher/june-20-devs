@@ -2,6 +2,7 @@
 
 - Just walk downtown
 - They are all great!!
+- (what are some actual examples of good restaurants?)
 
 
 #### Fun things to do
