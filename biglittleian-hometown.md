@@ -8,3 +8,4 @@
 ### Fun things to do
 - get chased by Alexander's staff
 - look Wendy's teller in the eye
+- find entrance to Rio Adobe
