@@ -1,6 +1,7 @@
 # test2.md new file
-# merlyne
-### my new second file
+# merlyne second file
+
+# editing file and renaming.
 
 Find place
   then eat 
