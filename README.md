@@ -1,2 +1,3 @@
 # june-20-devs
-A place to practice with GitHub
+
+Instructions for adding branch name to command prompt: https://gist.github.com/githubteacher/e75edf29d76571f8cc6c
